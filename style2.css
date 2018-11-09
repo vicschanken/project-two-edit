@@ -1,0 +1,141 @@
+body {
+    background-color:;
+   
+
+
+}
+
+
+img { 
+    width:50%;
+    margin-top: 140px;
+    margin-bottom: 140px;
+    margin-right: 30px
+
+
+
+;
+   
+
+  	
+
+}
+
+
+.saturate { filter: saturate(3); }
+.grayscale { filter: grayscale(100%); }
+.grayscale:hover{ filter:grayscale(0%); }
+.contrast { filter: contrast(110%); }
+.brightness { filter: brightness(0.25); }
+.blur { filter: blur(3px); }
+.rss.opacity { filter: opacity(50%); }
+.transform {  rotate();}
+
+
+
+
+h1 {
+	    font-family: 'Cormorant Garamond', serif;
+      font-weight: lighter;
+      font-size: 20vw;
+		
+
+		}
+
+
+
+h4 {
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  font-size: 10vw;
+  position: fixed;
+  z-index: 1;
+  left: 100px;
+  top: -150px;
+
+}
+
+
+h5 {
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  font-size: 10vw;
+  position: absolute;
+  z-index: 1;
+  left: 20px;
+  top: -198px;
+
+}
+
+h6{
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  font-size: 10vw;
+  position: absolute;
+  z-index: 1;
+  left: 20px;
+  top: 517px;
+  line-height: 12.8pt;
+}
+
+p {
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: lighter;
+  font-size: 9pt;
+  position: relative;
+  z-index: 1; 
+  width:40%;
+  top: 220px;
+  line-height: 15pt;
+
+
+
+}
+
+
+h2 {
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: lighter;
+    font-size: 9pt;
+    position: fixed;
+    z-index: 1;
+    left: 1300px;
+    top: 65px;
+}
+
+
+h3 {
+
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: lighter;
+    font-size: 9pt;
+    position: absolute;
+    left: 330px;
+    top: 530px;
+    line-height: 15pt;
+}
+
+ 
+
+
+a { text-decoration: none; color:black;}
+a:visited { text-decoration: none; color:black;}
+a:hover { text-decoration: none; color:black;}
+a:focus { text-decoration: none; color:black;}
+a:hover, a:active { text-decoration: none; color:black;}
+
+
+
+
+.allcontent {
+      max-width:850px;
+      margin:0 auto;
+    }
+
+
+
